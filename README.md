@@ -55,8 +55,9 @@ Plataforma web que automatiza la creación de entornos Docker mediante un asiste
 ## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvandev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvandev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=marvandev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=es" height="150" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marvandev&theme=radical&hide_border=true&layout=compact&locale=es" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=marvandev&theme=radical&hide_border=true&locale=es" height="150" alt="Streak" />
 </p>
 
 ---
